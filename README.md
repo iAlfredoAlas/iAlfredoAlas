@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 Soy Alfredo Alas</h1>
+<h1 align="center">Hey there, I am Alfredo Alas 👋</h1>
 
 <p align="center">
   Java Developer | El Salvador
