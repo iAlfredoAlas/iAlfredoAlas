@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy Alfredo Alas</h1>
 
-<!--
-**iAlfredoAlas/iAlfredoAlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Java Developer | El Salvador
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/alfredoalas/">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://gitlab.com/iAlfredoAlas">GitLab</a>
+</p>
+
+## Acerca de mí
+Soy un Java Developer con experiencia en el desarrollo de aplicaciones utilizando tecnologías como Java, Spring Boot y bases de datos SQL. Me apasiona construir soluciones eficientes y escalables que agreguen valor a los usuarios.
+
+## Skills
+- Java
+- Spring Boot
+- API REST
+- Microservices
+- PL/SQL
