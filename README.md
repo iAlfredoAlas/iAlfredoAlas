@@ -21,3 +21,12 @@ I am a Java Developer with experience in application development using technolog
 - API REST
 - Microservices
 - PL/SQL
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/iAlfredoAlas">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iAlfredoAlas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iAlfredoAlas&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
